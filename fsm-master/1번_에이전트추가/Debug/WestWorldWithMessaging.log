@@ -1,0 +1,16 @@
+﻿  Owner_call.cpp
+  OwnerOwnedStates.cpp
+  MinersWifeOwnedStates.cpp
+  MinersWife.cpp
+  MinerOwnedStates.cpp
+  Miner.cpp
+  MessageDispatcher.cpp
+  main.cpp
+  EntityManager.cpp
+  DogOwnStates.cpp
+  Dog.cpp
+  CrudeTimer.cpp
+  BaseGameEntity.cpp
+  코드를 생성하고 있습니다...
+BaseGameEntity.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  WestWorldWithMessaging.vcxproj -> C:\Users\수지\Desktop\수지_1번과제\.\Debug\WestWorldWithMessaging.exe
